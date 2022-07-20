@@ -1,0 +1,222 @@
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\appsettings.json
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\appsettings.Production.json
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.ComercioElectronico.WebApi.exe
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.ComercioElectronico.WebApi.deps.json
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.ComercioElectronico.WebApi.runtimeconfig.json
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.ComercioElectronico.WebApi.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\ref\Curso.ComercioElectronico.WebApi.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.ComercioElectronico.WebApi.pdb
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Humanizer.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.ComercioElectronico.Infraestructura.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.CursoElectronico.Dominio.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.pdb
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.CursoElectronico.Dominio.pdb
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.ComercioElectronico.Infraestructura.pdb
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.csproj.AssemblyReference.cache
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.AssemblyInfoInputs.cache
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.AssemblyInfo.cs
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.csproj.CoreCompileInputs.cache
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\scopedcss\bundle\Curso.ComercioElectronico.WebApi.styles.css
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.csproj.CopyComplete
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\ref\Curso.ComercioElectronico.WebApi.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.pdb
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.genruntimeconfig.cache
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.csproj.AssemblyReference.cache
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.AssemblyInfoInputs.cache
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.AssemblyInfo.cs
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.csproj.CoreCompileInputs.cache
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\ref\Curso.ComercioElectronico.WebApi.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.pdb
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\appsettings.json
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\appsettings.Production.json
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.ComercioElectronico.WebApi.exe
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.ComercioElectronico.WebApi.deps.json
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.ComercioElectronico.WebApi.runtimeconfig.json
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.ComercioElectronico.WebApi.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\ref\Curso.ComercioElectronico.WebApi.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.ComercioElectronico.WebApi.pdb
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Humanizer.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.ComercioElectronico.Infraestructura.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.CursoElectronico.Dominio.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.pdb
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.CursoElectronico.Dominio.pdb
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.ComercioElectronico.Infraestructura.pdb
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\scopedcss\bundle\Curso.ComercioElectronico.WebApi.styles.css
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.csproj.CopyComplete
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.genruntimeconfig.cache
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\AutoMapper.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\FluentValidation.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\WebDriver.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\appsettings.Development.json
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\appsettings.json
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\appsettings.Production.json
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.ComercioElectronico.WebApi.exe
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.ComercioElectronico.WebApi.deps.json
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.ComercioElectronico.WebApi.runtimeconfig.json
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.ComercioElectronico.WebApi.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.ComercioElectronico.WebApi.pdb
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\AutoMapper.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\FluentValidation.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Humanizer.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\WebDriver.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.ComercioElectronico.Infraestructura.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.CursoElectronico.Dominio.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.pdb
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.CursoElectronico.Dominio.pdb
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\bin\Debug\net6.0\Curso.ComercioElectronico.Infraestructura.pdb
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.csproj.AssemblyReference.cache
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.AssemblyInfoInputs.cache
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.AssemblyInfo.cs
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.csproj.CoreCompileInputs.cache
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.MvcApplicationPartsAssemblyInfo.cs
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.MvcApplicationPartsAssemblyInfo.cache
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\staticwebassets.build.json
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\staticwebassets.development.json
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\scopedcss\bundle\Curso.ComercioElectronico.WebApi.styles.css
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.csproj.CopyComplete
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\refint\Curso.ComercioElectronico.WebApi.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.pdb
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\Curso.ComercioElectronico.WebApi.genruntimeconfig.cache
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\obj\Debug\net6.0\ref\Curso.ComercioElectronico.WebApi.dll

@@ -1,0 +1,51 @@
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\bin\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.deps.json
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\bin\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\bin\Debug\net6.0\ref\Curso.ComercioElectronico.Aplicacion.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\bin\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.pdb
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\bin\Debug\net6.0\Curso.ComercioElectronico.Infraestructura.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\bin\Debug\net6.0\Curso.CursoElectronico.Dominio.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\bin\Debug\net6.0\Curso.ComercioElectronico.Infraestructura.pdb
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\bin\Debug\net6.0\Curso.CursoElectronico.Dominio.pdb
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\obj\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.csproj.AssemblyReference.cache
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\obj\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\obj\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.AssemblyInfoInputs.cache
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\obj\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.AssemblyInfo.cs
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\obj\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.csproj.CoreCompileInputs.cache
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\obj\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.csproj.CopyComplete
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\obj\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\obj\Debug\net6.0\ref\Curso.ComercioElectronico.Aplicacion.dll
+D:\SEMILLERO BP\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\obj\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.pdb
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\bin\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.deps.json
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\bin\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\bin\Debug\net6.0\ref\Curso.ComercioElectronico.Aplicacion.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\bin\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.pdb
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\bin\Debug\net6.0\Curso.ComercioElectronico.Infraestructura.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\bin\Debug\net6.0\Curso.CursoElectronico.Dominio.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\bin\Debug\net6.0\Curso.ComercioElectronico.Infraestructura.pdb
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\bin\Debug\net6.0\Curso.CursoElectronico.Dominio.pdb
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\obj\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\obj\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.AssemblyInfoInputs.cache
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\obj\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.AssemblyInfo.cs
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\obj\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.csproj.CoreCompileInputs.cache
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\obj\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.csproj.CopyComplete
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\obj\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\obj\Debug\net6.0\ref\Curso.ComercioElectronico.Aplicacion.dll
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\obj\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.pdb
+D:\SEMILLERO BP\Nueva carpeta\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\obj\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.csproj.AssemblyReference.cache
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\bin\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.deps.json
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\bin\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\bin\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.pdb
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\bin\Debug\net6.0\Curso.ComercioElectronico.Infraestructura.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\bin\Debug\net6.0\Curso.CursoElectronico.Dominio.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\bin\Debug\net6.0\Curso.ComercioElectronico.Infraestructura.pdb
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\bin\Debug\net6.0\Curso.CursoElectronico.Dominio.pdb
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\obj\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.csproj.AssemblyReference.cache
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\obj\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\obj\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.AssemblyInfoInputs.cache
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\obj\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.AssemblyInfo.cs
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\obj\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.csproj.CoreCompileInputs.cache
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\obj\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.csproj.CopyComplete
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\obj\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\obj\Debug\net6.0\refint\Curso.ComercioElectronico.Aplicacion.dll
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\obj\Debug\net6.0\Curso.ComercioElectronico.Aplicacion.pdb
+S:\Stalin Respaldo\Proyectos\Nueva carpeta (2)\final\Curso.ComercioElectronico.WebApi\Curso.ComercioElectronico.Aplicacion\obj\Debug\net6.0\ref\Curso.ComercioElectronico.Aplicacion.dll
